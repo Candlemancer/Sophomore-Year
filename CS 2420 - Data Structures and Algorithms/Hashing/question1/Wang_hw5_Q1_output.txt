@@ -1,0 +1,20 @@
+The key 185 is not in the current hash table.
+The key 100 is in the current hash table.
+The key 19 is in the current hash table.
+The key 117 is not in the current hash table.
+The key 13 is not in the current hash table.
+
+The following is the current hash table:
+Entry 0:169->26
+Entry 1:300->781->66->586->40->651
+Entry 2:93->184->15
+Entry 3:42
+Entry 4:
+Entry 5:304->161->5->70->200
+Entry 6:58->123->19
+Entry 7:20->111->514
+Entry 8:333->268
+Entry 9:152->100
+Entry 10:23->335
+Entry 11:869->739->167->180
+Entry 12:90->155->207->168

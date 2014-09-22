@@ -1,0 +1,27 @@
+Jonathan Petersen
+A01236750
+
+1. Website Hosted at: 
+		http://cs2610.cs.usu.edu/~candlemancer/MadLibs/index.htm
+
+2. Functions found in madLibs.js: 
+		28  - reset(), 
+		112 - generateMadLibs()
+
+3. Event Handlers found in index.htm:
+		9 - onload()
+   in madLibs.js:
+   		32 - onchange(),
+   		102 - onclick()
+
+4. Input from textboxes found in madLibs.js:
+		32, 35 - All text box input is used to get the mad lib words from the user.
+
+5. Javascript is used to change a style element in madLibs.js:
+		116 - Change the text alignment
+
+6. Javascript is used to change innerHTML in madLibs.js:
+		30 - Generate the list of textboxes as part of a toggle funciton.
+
+7. Javascript is used to change another attribute in madLibs.js:
+		11 - Disable the Go! button unless all the fields have text.

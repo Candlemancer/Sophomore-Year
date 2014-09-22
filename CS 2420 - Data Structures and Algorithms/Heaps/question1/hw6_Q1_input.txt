@@ -1,0 +1,40 @@
+deleteMin
+insert 137 
+insert 136 
+insert 103 
+insert 192 
+deleteMin
+insert 168 
+insert 60 
+insert 41 
+insert 181 
+insert 70 
+deleteMin
+deleteMin
+deleteMin
+insert 75 
+insert 187 
+insert 47 
+insert 148 
+insert 166 
+insert 74 
+insert 6 
+deleteMin
+insert 58
+insert 174 
+insert 12 
+insert 91 
+deleteMin
+deleteMin
+deleteMin
+deleteMin
+insert 92 
+insert 30 
+insert 182 
+insert 78 
+insert 4 
+insert 80 
+insert 146 
+insert 18 
+insert 14
+deleteMin

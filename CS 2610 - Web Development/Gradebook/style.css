@@ -1,0 +1,43 @@
+html {
+	background: black;
+	height: 100%;
+	text-align: center;
+}
+
+body {
+	min-height: 100%;
+	width: 780px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+h1 {
+	display: inline-block;
+}
+
+label {
+	display: inline-block;
+	text-align: right;
+	width: 150px;
+}
+
+select {
+	width: 100px;
+	margin-right: 122px;
+}
+
+#phone {
+	/*width: 150px;*/
+	margin-right: 122px;
+}
+
+.error {
+	display: inline-block;
+	width: 150px;
+	text-align: left;
+	color: #F02311;
+}
+
+#points {
+	margin-right: 168px;
+}

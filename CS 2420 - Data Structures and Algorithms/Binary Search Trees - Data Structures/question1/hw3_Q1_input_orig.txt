@@ -1,0 +1,41 @@
+insert 114
+insert 185
+insert 117
+insert 168
+insert 188
+insert 119
+insert 186
+findMin
+insert 173
+insert 40
+insert 66
+remove 173
+insert 107
+insert 155
+insert 126
+insert 13
+findMin
+insert 23
+remove 188
+remove 186
+insert 42
+insert 180
+insert 200
+remove 117
+search 119
+insert 90
+insert 70
+insert 152
+insert 58
+insert 83
+remove 83
+search 117
+insert 184
+insert 169
+insert 19
+search 13
+insert 167
+insert 93
+insert 20
+insert 161
+findMin

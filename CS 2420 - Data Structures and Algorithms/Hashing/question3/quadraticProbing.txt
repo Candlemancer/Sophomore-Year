@@ -1,0 +1,13 @@
+
+The following is the current hash table:
+The entry 0 is 44
+The entry 1 is 12
+The entry 2 is 59
+The entry 3 is 36
+The entry 4 is 26
+The entry 5 is 5
+The entry 6 is empty.
+The entry 7 is 40
+The entry 8 is 92
+The entry 9 is 42
+The entry 10 is empty.

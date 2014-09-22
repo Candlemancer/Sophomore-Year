@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+<html>
+    <head  lang="en">
+        <meta charset="UTF-8">
+		<link href="computeStyle.css" rel="stylesheet" type="text/css" />
+		<title>Using Textboxes</title>
+
+		<script type="text/javascript" src = "compute.js"> 
+		</script>
+	</head>
+	<body>
+		<h1>Using Textboxes</h1>
+		<div>
+			<label>Length:</label>
+			<input id = "length" type = "text" value = "length" />
+			<br/>
+
+			<label>Width:</label>
+			<input id = "width" type = "text" value = "width" />
+			<br/>
+
+			<label>Area:</label>
+			<input id = "area" type = "text" value = "area" />
+			<br/>
+		</div>
+
+
+
+		<p><button onclick = "area()" >Compute Area</button></p>
+			
+		<div>
+			<h2 id = "stuffHeader" >Stuff `n Stuff</h2>
+			<label>Value 1:</label>
+			<input id = "value1" type = "text" value = "value1" />
+			<span id = "value1E"> </span>
+			<br/>
+
+			<label>Value 2:</label>
+			<input id = "value2" type = "text" value = "value2" />
+			<span id = "value2E"> </span>
+			<br/>
+		</div>
+		
+		<p><button onclick = "add()" >Compute Sum</button></p>
+		<h1>The End</h1>
+	</body>
+</html>

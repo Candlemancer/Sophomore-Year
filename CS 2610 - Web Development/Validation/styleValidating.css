@@ -1,0 +1,34 @@
+/*
+Complimentary Color Scheme
+Base	Greyed	Bold	Light	Lightest
+9EA2BE	7D7F8F	333C7C	C2C6DF	CACCDF
+FFF1CD	BFB8A3	A68A43	FFF5DA	FFF7E4
+*/
+
+body {
+background-color: #9EA2BE;
+}
+th {
+padding: 12px;
+}
+td{
+text-align:center;
+}
+label {
+width: 220px;
+display:inline-block;
+text-align: right;
+padding-right: 12px;
+}
+fieldset {
+margin: 24px;
+}
+
+input[type="text"] {
+	width: 32px;
+}
+span{
+	color: #FFF1CD;
+	padding-left: 6px;
+
+}

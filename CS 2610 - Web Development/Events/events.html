@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+<html>
+    <head  lang="en">
+        <meta charset="UTF-8">
+		<link href="eventStyle.css" rel="stylesheet" type="text/css" />
+		<title>Events</title>
+
+		<script type="text/javascript">
+
+			var toggle = new Boolean();
+
+			function getTime() {
+				var newDate = new Date();
+				var h=newDate.getHours();
+				var m=newDate.getMinutes();
+				var s=newDate.getSeconds();
+				m=checkZero(m);
+				s=checkZero(s);
+				document.getElementById("time").innerHTML=h+":"+m+":"+s;
+			}
+
+			function checkZero(i)
+			{
+			if (i<10)
+			  {
+			  i="0" + i;
+			  }
+			return i;
+			}
+
+			function getName() {
+				
+				var name = prompt("Please enter your name");	
+				document.getElementById("welcome").innerHTML = "Welcome " + name + "!";
+			}
+
+
+			function changeWelcome() {
+
+				var color = prompt("Enter a Color");			
+
+				document.getElementById("welcome").style.color = color;
+				document.getElementById("welcome").style.backgroundColor = "#2F5E74";
+				document.getElementById("welcome").style.border = "2px solid #4D337B";	
+			}
+
+			function makeInvisible() {
+				document.getElementById("welcome").style.visibility = "hidden";
+			}
+
+			function makeVisible() {
+				document.getElementById("welcome").style.visibility = "visible";
+			}
+
+		</script>
+	</head>
+	<body onload="getTime()">
+		<h1>Playing with JavaScript</h1>
+		<h2 id="welcome">Welcome!</h2>
+		<p onmouseover = "this.innerHTML='You Have Arrived'" onmouseout="this.innerHTML='Gone Again'" id="message" >JavaScript can make a webpage dynamic</p>
+		<h1>The End</h1>
+		<h3 id="time">Time</h3>
+
+		<button onclick="changeWelcome()">Change Color</button>
+		<button onclick="makeInvisible()">Change Invisible</button>
+		<button onclick="makeVisible()">Change Visible</button>
+		<button onclick="getTime()">Get Time</button>
+
+
+
+	</body>
+</html>

@@ -1,0 +1,18 @@
+body {
+	margin: auto;
+	width: 1200px;
+	text-align: center;
+}
+
+label, span {
+	display: inline-block;
+	width: 250px;
+	text-align: left;
+}
+
+.rAlign {
+	text-align: right;
+	width: 100px;
+}
+
+

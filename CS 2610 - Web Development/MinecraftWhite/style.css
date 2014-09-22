@@ -1,0 +1,200 @@
+/*/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers 
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*-------End of Reset CSS-----------
+
+#index 			{ background-image: url(snow.png); }
+#atmosphere		{ background-image: url(dirt.png); }
+#technology		{ background-image: url(stone.png); }
+#construction	{ background-image: url(netherrack.png); }
+
+img#resize {
+
+	width: 864px;
+	height: auto;
+
+}
+
+.header {
+
+	float: left;
+	padding-top: 100px;
+	min-width: 100%;
+	background-image: url(snow_side.png);
+	height: 156px;
+
+}
+
+.content {
+
+	clear: both;
+	width: 720px;
+	margin: auto;
+	background-color: #3A5D78;
+	border-style: dashed;
+	border-width: 4px;
+	border-color: #253B4D;
+	padding: 30px 68px;
+
+}
+
+.media {
+
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.navigation {
+
+	width: 720px;
+	margin: auto;
+	text-align: center;
+
+}
+
+a.navigation {
+
+	margin: 0px 10px;
+
+}
+
+body {
+
+	width: 100%;
+	color: #D6E6E6;
+	font-size: 16px;
+	font-family: "lucida grande", sans-serif;
+
+}
+
+h1 { 
+
+	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 72px; 
+
+}
+
+h2 {
+
+	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 32px;
+
+}
+
+h3 {
+
+	font-family: helvetica, sans-serif;
+	text-align: center;
+
+}
+
+a { 
+
+	font-family: helvetica, sans-serif;
+	font-weight: bold;
+	color: #D6E6E6;
+
+}
+
+table { 
+
+	margin: 30px;
+	text-align: center; 
+	font-size: 32px;
+	background-color: #3A5D78;
+	border-style: dashed;
+	border-width: 4px;
+	border-color: #253B4D;
+
+}
+
+img {
+
+	vertical-align: bottom;
+
+}
+
+p {
+
+	margin: 18px 0px;
+	line-height: 24px;
+
+}
+
+ul {
+
+	margin: 18px 0px;
+	line-height: 24px;
+	position: relative;
+	left: 30px;
+
+}
+
+td.link{
+
+	padding: 18px;
+	background-color: #3A5D78;
+
+}
+*/
+
+p {
+	background-color: #FF0000;
+	width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

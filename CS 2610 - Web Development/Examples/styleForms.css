@@ -1,0 +1,27 @@
+/*
+Analogic Color Scheme
+Base	Greyed	Bold	Light	Lightest
+9EA2BE	7D7F8F	333C7C	C2C6DF	CACCDF
+A89BBD	827B8D	4D337B	CBC1DE	D0C8DE
+91A8B2	738086	2F5E74	BBCFD9	C3D2D9
+*/
+
+body {
+background-color: #9EA2BE;
+}
+th {
+padding: 12px;
+}
+td{
+text-align:center;
+}
+label.CheckLabel {
+	display: inline-block;
+	width: 100px;
+	text-align: right;
+}
+label.TemperatureLabel {
+	display: inline-block;
+	width:120px;
+	text-align: right;
+}

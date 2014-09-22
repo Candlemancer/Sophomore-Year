@@ -1,0 +1,47 @@
+body
+{
+    background-color: #9EA2BE;
+}
+table {
+    border-collapse: collapse;
+}
+td, th
+{
+    border: 2px solid #FFF1CE;
+}
+.name{
+    width: 156px;    
+}
+.dependents{
+    width: 96px;
+    text-align: center;
+}
+.wage{
+    width: 126px;
+    text-align: right;
+}
+
+input[type="text"]
+{
+    background-color: #FFF1CE;
+    border-color: #DFE3FE;
+    width: 96px;
+    padding:2px;
+}
+
+input[type="submit"]{
+    width:182px;
+    height: 42px;
+    background-color: #DFE3FE;
+    font-size: 18px;
+    margin-top: 14px;
+}
+label {
+    display: inline-block;
+    width: 128px;
+    text-align: right;
+    padding-right: 12px;
+}
+span {
+    padding-left: 12px;
+}

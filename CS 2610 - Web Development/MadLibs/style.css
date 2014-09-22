@@ -1,0 +1,42 @@
+/*
+Background 		#351330
+SubBackground 	#424254
+Mid 			#64908A
+Light 			#E8CAA4
+Highlight 		#CC2A41
+*/
+
+html {
+	background-color: #64908A;
+	height: 100%;
+	min-height: 100%;
+}
+
+body {
+	width: 720px;
+	margin: auto;
+	background-color: #424254;
+	text-align: center;
+	height: 100%;
+	color: #E8CAA4;
+}
+
+label {
+	display: inline-block;
+	text-align: right;
+	width: 150px;
+	margin-right: 7px;
+}
+
+h1 {
+
+	margin: 0 0 20px 0;
+	padding: 10px 0;
+	background-color: #351330;
+
+}
+
+button {
+	width: 100px;
+}
+

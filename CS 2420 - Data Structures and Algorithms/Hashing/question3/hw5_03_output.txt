@@ -1,0 +1,42 @@
+// Jonathan Petersen
+// A01236750
+// Hashing
+
+The following is the current hash table with Linear Probing:
+The entry 0 is 44
+The entry 1 is 12
+The entry 2 is empty.
+The entry 3 is 36
+The entry 4 is 26
+The entry 5 is 5
+The entry 6 is 92
+The entry 7 is 59
+The entry 8 is 40
+The entry 9 is 42
+The entry 10 is empty.
+
+The following is the current hash table with Quadratic Probing:
+The entry 0 is 44
+The entry 1 is 12
+The entry 2 is 59
+The entry 3 is 36
+The entry 4 is 26
+The entry 5 is 5
+The entry 6 is empty.
+The entry 7 is 40
+The entry 8 is 92
+The entry 9 is 42
+The entry 10 is empty.
+
+The following is the current hash table with Double Hashing:
+The entry 0 is 44
+The entry 1 is 40
+The entry 2 is 12
+The entry 3 is 36
+The entry 4 is 26
+The entry 5 is 5
+The entry 6 is empty.
+The entry 7 is 92
+The entry 8 is empty.
+The entry 9 is 42
+The entry 10 is 59

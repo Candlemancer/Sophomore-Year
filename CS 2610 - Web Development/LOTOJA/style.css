@@ -1,0 +1,82 @@
+html {
+	background-color: #594F4F;
+	height: 100%;
+}
+
+body {
+	width: 720px;
+	height: 100%;
+	min-height: 100%;
+	margin: auto;
+ 	background-color: #547980;
+	text-align: center;
+	color: #E5FCC2;
+}
+
+h1 {
+	display: inline-block;
+}
+
+form {
+	width: 100%;
+	margin: 0 auto;
+	line-height: 22px;
+}
+
+label#racerNameL {
+	width: 100px;
+}
+input#racerNameI {
+	width: 150px;
+	margin: 0px;
+}
+
+label.formLabel {
+	clear: both;
+	display: inline-block;
+	width: 200px;
+	text-align: right;
+}
+input[type="text"] {
+	width: 50px;
+	border: 1.5px;
+	border-style: solid;
+	border-color: #594F4F;
+	padding: 2px;
+}
+
+input[type="submit"] {
+	color: #594F4F;
+	font-size: 13px;
+	background-color: #9DE0AD;
+	border: none;
+}
+
+table {
+	margin: 0 auto;
+	background: #45ADA8;
+	padding: 50px 20px;
+}
+
+td {
+	text-align: center;
+}
+
+th {
+	padding: 0 25px 0 0;
+	text-align: right;
+}	
+
+td.data {
+	padding: 0 25px;
+	text-align: right;
+	width: 120px;
+}
+
+div.error {
+	display: inline-block;
+	width: 220px;
+	text-align: left;
+	color: #FFB347;
+	font-weight: bold;
+}

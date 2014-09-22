@@ -1,0 +1,10 @@
+The smallest key in the current tree is 114
+The smallest key in the current tree is 13
+The key 119 is in the current tree.
+The key 117 is not in the current tree.
+The key 13 is in the current tree.
+The smallest key in the current tree is 13
+The pre-order traversal list is: 
+114  40  13  23  19  20  66  42  58  107  90  70  93  185  168  119  155  126  152  167  161  180  169  184  200  
+The in-order traversal list is: 
+13  19  20  23  40  42  58  66  70  90  93  107  114  119  126  152  155  161  167  168  169  180  184  185  200  
