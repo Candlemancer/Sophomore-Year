@@ -1,0 +1,9 @@
+MATH*
+ENGL*
+CHEM*
+*Debug*
+*.sdf
+*.sln
+*.suo
+*.vcxproj*
+*Release*
